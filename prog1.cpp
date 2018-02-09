@@ -39,15 +39,3 @@ int main()
 	cout << max_sum;
 	
 }
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
